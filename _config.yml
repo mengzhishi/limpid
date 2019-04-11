@@ -1,23 +1,25 @@
 # Site settings
-title: Limpid Jekyll Theme
-email: pranav@maangalabs.com
+title: Nangder's blog
+email: 319513605@qq.com
 description: Limpid Jekyll Theme is a clean, minimal theme for Jekyll websites.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://maangalabs.com" # the base hostname & protocol for your site
 #twitter
-twitter_username: pranavrajs
-github_username:  pranavrajs
+
+#twitter_username: pranavrajs
+#github_username:  pranavrajs
 
 #linkedin
-linkedin_username: pranavrajs
+
+#linkedin_username: pranavrajs
 
 #google analytics
-google_analytics_id : UA-53386152-2
+#google_analytics_id : UA-53386152-2
 #gplus
-gplus_username: 101893920934936418705
+#gplus_username: 101893920934936418705
 
 #fb_username
-fb_username: pranav.tayberrycreative
+#fb_username: pranav.tayberrycreative
 
 #permalink /blog/2014/11/11/this-is-a-sample-post
 permalink: /blog/:year/:month/:day/:title/
