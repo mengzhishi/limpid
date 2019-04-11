@@ -3,9 +3,12 @@ layout: post
 title:  "TEST"
 date:   2019-09-09 22:37:00 +05:30
 categories: TEST
-author: NANGDER
+author: Nangder
 github_repo_username: megnzhishi
 github_repo : lucid
 featured_image: /images/featured-image.png
 comments: true 
 ---
+#部长牛逼
+
+![ThisIsADemoPhoto](https://raw.githubusercontent.com/mengzhishi/BlogImage/master/huruilong.jpg)
