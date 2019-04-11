@@ -47,4 +47,4 @@ static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocato
 
 **Image**
 
-![ThisIsADemoPhoto](https://raw.githubusercontent.com/mengzhishi/BlogImage/master/2.png?token=Aq6PFnblMML86pYTkPjd8jRDJSReMw4rks5crrBLwA%3D%3D)
+![ThisIsADemoPhoto](https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-white-orange.svg)
