@@ -47,4 +47,3 @@ static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocato
 
 **Image**
 
-![ThisIsADemoPhoto](https://raw.githubusercontent.com/mengzhishi/BlogImage/master/huruilong.jpg)
