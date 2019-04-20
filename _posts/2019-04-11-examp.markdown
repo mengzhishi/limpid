@@ -7,11 +7,10 @@ author: Nangder
 github_repo_username: megnzhishi
 github_repo : lucid
 featured_image: /images/featured-image.png
-comments: true 
+comments: false 
 ---
-These words are to hide the content behind, so this is useless article, don't worry, these words are not enough, so I will add some more
+这是我的第一个测试文本，附上室友的照片
 <!-- more -->
 
-#部长牛逼
-
+#牛逼
 ![ThisIsADemoPhoto](https://raw.githubusercontent.com/mengzhishi/BlogImage/master/huruilong.jpg)
